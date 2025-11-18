@@ -1,5 +1,8 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/dY9ZQxC.png" width="100%" />
+<p align="center">
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text=Umma%20Habiba%20%7C%20Full-Stack%20MERN%20Developer%20%7C%20Dhaka,%20Bangladesh&width=1000&height=250&color=purple" />
+</p>
+
 
 <h1 align="center">Hey 👋, I'm Umma Habiba</h1>
 <h3 align="center">Aspiring Full-Stack MERN Developer</h3>
