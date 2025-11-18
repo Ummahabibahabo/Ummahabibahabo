@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text=Umma%20Habiba%20%7C%20Full-Stack%20MERN%20Developer%20%7C%20Dhaka,%20Bangladesh&width=1000&height=250&color=purple&icons=react,nodejs,mongodb" />
+  <img src="https://i.ibb.co/f8f7X9H/programming-banner.png" alt="Programming Banner" width="100%">
 </p>
+
 
 <p align="center">
   <img src="https://your-profile-picture-link-here.jpg" alt="Umma Habiba" width="150" style="border-radius:50%;" />
