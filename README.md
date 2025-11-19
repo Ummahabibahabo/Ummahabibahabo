@@ -71,10 +71,6 @@ Focused on **clean UI**, **responsive layouts**, and **scalable backend systems*
 
 ---
 
-## ✨ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
 
 ---
 
