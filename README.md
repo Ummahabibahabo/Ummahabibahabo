@@ -22,13 +22,11 @@ I continuously improve my skills through hands-on projects and staying updated w
 
 ## Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/umma-habiba" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/umma.habiba" target="_blank">
+ 
+  <a href="https://www.facebook.com/umma.habiba.615977" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://github.com/ummahabibahabo" target="_blank">
+  <a href="https://github.com/Ummahabibahabo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://twitter.com/ummahabiba" target="_blank">
