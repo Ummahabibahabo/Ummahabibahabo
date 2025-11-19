@@ -17,9 +17,7 @@
   <a href="https://fb.com/umma.habiba" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/umma-habiba" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  
   <a href="https://github.com/ummahabibahabo" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
