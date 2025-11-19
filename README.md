@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umma Habiba</h1>
 
 <p align="center">
-  I am an aspiring Full-Stack MERN Developer currently progressing through an active learning journey. My focus is on building clean, responsive user interfaces and developing efficient, scalable backend systems. I enjoy exploring modern web technologies, solving real-world problems, and turning ideas into meaningful full-stack applications. Right now, I’m improving my skills in HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB, while constantly learning through hands-on projects and daily practice.
+  Aspiring Full-Stack MERN Developer. I build clean, responsive UIs and scalable backend systems using HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. Currently learning and improving through hands-on projects every day.
 </p>
 
 <p align="right">
@@ -9,55 +9,69 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ummahabibahabo&label=Profile%20views&color=0e75b6&style=flat" alt="ummahabibahabo" />
+  <img src="https://komarev.com/ghpvc/?username=ummahabibahabo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/umma.habiba" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umma habiba" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/umma-habiba" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/ummahabibahabo" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">💻 Frontend Skills</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
 
+<h3 align="left">⚙️ Backend Skills</h3>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ummahabibahabo&show_icons=true&locale=en&layout=compact" alt="ummahabibahabo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ummahabibahabo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ummahabibahabo&show_icons=true&locale=en" alt="ummahabibahabo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ummahabibahabo&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ummahabibahabo" alt="ummahabibahabo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ummahabibahabo" alt="GitHub Streak" />
 </p>
