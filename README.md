@@ -3,9 +3,9 @@
   <img src="https://static.vecteezy.com/system/resources/thumbnails/006/709/644/small/abstract-modern-tech-of-programming-code-screen-developer-free-photo.jpg" alt="Banner" width="100%" />
 </p>
 
-<!-- Typing Animation Name -->
+<!-- Typing Animation Name (New Multi-Color Style) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Umma+Habiba;Aspiring+MERN+Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Umma+Habiba;Creative+MERN+Developer;Welcome+to+my+GitHub+Profile!&color=00D1FF&color=FF6AD5&color=F9F871&color=A0FFB3&color=FF8C42&background=00000000" />
 </h1>
 
 ---
@@ -61,11 +61,11 @@ Focused on **clean UI**, **responsive layouts**, and **scalable backend systems*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ummahabibahabo&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+<img src="https://github-readme-stats.vercel.app/api?username=ummahabibahabo&show_icons=true&theme=highcontrast&hide_border=true" height="160">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ummahabibahabo&theme=tokyonight&hide_border=true" height="160">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ummahabibahabo&theme=highcontrast&hide_border=true" height="160">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummahabibahabo&layout=compact&theme=tokyonight&hide_border=true" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummahabibahabo&layout=compact&theme=highcontrast&hide_border=true" height="160">
 
 </div>
 
@@ -73,12 +73,12 @@ Focused on **clean UI**, **responsive layouts**, and **scalable backend systems*
 
 ## ✨ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-<!-- Typing Animation - Thanks Section -->
+<!-- Typing Animation - Thanks Section (New Color Mix) -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF66CC&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Have+a+great+day!;Keep+coding+and+smiling+%F0%9F%92%96;Come+back+again+soon!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2400&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Have+a+beautiful+day!;Keep+Learning+💛;Stay+Creative+💡;Come+back+again!;You're+Awesome+✨&color=FF6AD5&color=00D1FF&color=F9F871&color=A0FFB3&color=FF8C42&color=B388EB&background=00000000" />
 </h2>
