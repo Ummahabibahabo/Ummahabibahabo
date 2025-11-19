@@ -1,89 +1,84 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/thumbnails/006/709/644/small/abstract-modern-tech-of-programming-code-screen-developer-free-photo.jpg" alt="Banner" width="100%" />
 </p>
 
-<!-- Name and Designation -->
-<h1 align="center">Hi 👋, I'm Umma Habiba</h1>
-<h3 align="center">Aspiring Full-Stack MERN Developer</h3>
+<!-- Typing Animation Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Umma+Habiba;Aspiring+MERN+Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
 ---
 
-## About Me
-I am an **aspiring Full-Stack MERN Developer** passionate about building **clean, responsive web interfaces** and **scalable backend systems**.  
-I continuously improve my skills through hands-on projects and staying updated with modern web technologies.
+## 📌 About Me
+I am an **Aspiring Full-Stack MERN Developer** who loves creating modern web applications.  
+Focused on **clean UI**, **responsive layouts**, and **scalable backend systems**.
 
-### Currently Working On
-- Building a **Local Food Lovers Network App**
-- Learning **Advanced React Patterns**
-- Exploring **Backend Development with Node.js & Express**
+### 💡 Currently Working On:
+- 🥗 **Local Food Lovers Network App**
+- ⚛️ Advanced **React Patterns**
+- 🛠️ **Node.js & Express Backend**
 
 ---
 
-## Connect with me
-<p align="left">
- 
+## 🌐 Connect With Me
+<p align="center">
   <a href="https://www.facebook.com/umma.habiba.615977" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="45" />
   </a>
   <a href="https://github.com/Ummahabibahabo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="35" width="45" />
   </a>
   <a href="https://twitter.com/ummahabiba" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="45" />
   </a>
 </p>
 
 ---
 
-## 💻 Skills
+## 💻 Tech Stack
 
-### Frontend
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
+### 🔸 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
 </p>
 
-### Backend & Tools
-<p align="left">
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+### 🔸 Backend & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ummahabibahabo&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ummahabibahabo&theme=tokyonight&hide_border=true" height="160">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummahabibahabo&layout=compact&theme=tokyonight&hide_border=true" height="160">
+
+</div>
+
+---
+
+## ✨ Random Dev Quote
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ummahabibahabo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ummahabibahabo&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ummahabibahabo" alt="GitHub Streak" />
-</p>
+<!-- Typing Animation - Thanks Section -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF66CC&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Have+a+great+day!;Keep+coding+and+smiling+%F0%9F%92%96;Come+back+again+soon!" />
+</h2>
