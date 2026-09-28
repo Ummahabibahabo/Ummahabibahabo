@@ -159,8 +159,7 @@ A food marketplace application built with the MERN Stack.
 <a href="YOUR_PORTFOLIO_LINK">
   <img src="https://img.shields.io/badge/Portfolio-Visit-84cc16?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-<a href="mailto:habiba.enh@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=habiba.enh@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
