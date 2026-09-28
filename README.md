@@ -1,79 +1,179 @@
 
-<h1 align="center">Hi 👋, I'm Umma Habiba</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh 🇧🇩</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="center">
+<div align="center">
+
+# 👋 Hi, I'm Umma Habiba
+
+### 💻 A Passionate Full-Stack Web Developer from Bangladesh 🇧🇩
+
+<p>
   I love building modern, responsive, and user-friendly web applications.
-  I'm passionate about learning new technologies and improving my development skills through real-world projects.
+  <br/>
+  Passionate about learning new technologies and turning creative ideas into reality.
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:84cc16&height=3&section=header" width="100%"/>
 
-### 👩‍💻 About Me
-
-- 🔭 I’m currently working on **FitLog – Workout Library**
-- 🌱 I’m currently learning **Advanced Next.js, TypeScript, and Full-Stack Development**
-- 👯 I’m looking to collaborate on **MERN Stack and Next.js projects**
-- 🤝 I’m looking to improve my skills in **Backend Development and API Integration**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, and MongoDB**
-- 📫 How to reach me: **habiba.enh@gmail.com**
-- 👨‍💻 All of my projects are available on my **GitHub profile**
-- ⚡ Fun fact: **I love turning creative ideas into interactive web applications!**
+</div>
 
 ---
 
-### 🚀 Projects
+<!-- ===================== ABOUT ME ===================== -->
 
-#### 🏋️ FitLog – Workout Library
-A workout library application where users can explore workouts, create daily plans, and save their favorite exercises.
+## 💼 About Me
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS
+<table>
+<tr>
+<td width="60%">
 
-#### 📚 Book Vibe
-A book discovery application where users can explore books, manage their reading lists, and save their favorite books.
+- 🔭 Currently working on **FitLog – Workout Library**
+- 🌱 Learning **Next.js, TypeScript & Full-Stack Development**
+- 👯 Looking to collaborate on **MERN Stack & Next.js Projects**
+- 🤝 Improving my skills in **Backend Development & API Integration**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js & MongoDB**
+- 📫 Reach me at **habiba.enh@gmail.com**
+- ⚡ Fun fact: I love turning ideas into interactive web applications!
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS
+</td>
+<td width="40%" align="center">
 
-#### 🍽️ LocalChefBazaar
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts" width="250"/>
+
+<br/><br/>
+
+**💚 Code • Learn • Build • Repeat**
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 My Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏋️ FitLog
+
+**Workout Library**
+
+A workout application where users can explore exercises, create daily workout plans, and save their favorite workouts.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+[🔗 View Project](YOUR_FITLOG_LINK)
+
+</td>
+<td width="50%">
+
+### 📚 Book Vibe
+
+**Book Discovery App**
+
+A book discovery application where users can explore books, manage reading lists, and save their favorite books.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+[🔗 View Project](YOUR_BOOK_VIBE_LINK)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🍽️ LocalChefBazaar
+
 A food marketplace application built with the MERN Stack.
 
-**Tech Stack:** MongoDB, Express.js, React, Node.js
+**Tech Stack:** `MongoDB` `Express.js` `React` `Node.js`
+
+[🔗 View Project](YOUR_LOCALCHEFBAZAAR_LINK)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Languages and Tools
+<!-- ===================== TECH STACK ===================== -->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
-</p>
+## 🛠️ Tech Stack & Tools
 
----
-
-### 📊 GitHub Stats
+### 💻 Frontend
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
+
+### ⚙️ Backend & Database
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+<!-- ===================== GITHUB STATS ===================== -->
 
-<p align="left">
-  <a href="in/ummahabibahabo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
-  </a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=84cc16&icon_color=84cc16" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=84cc16" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=84cc16&fire=84cc16&currStreakLabel=84cc16" />
+
+</div>
 
 ---
 
-<p align="center">
-  💙 Thanks for visiting my profile! Let's build something amazing together.
-</p>
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ummahabibahabo/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-84cc16?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="habiba.enh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Thanks for visiting my profile!
+
+**Let's build something amazing together.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
