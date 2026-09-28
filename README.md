@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **MERN Stack and Next.js projects**
 - 🤝 I’m looking to improve my skills in **Backend Development and API Integration**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, and MongoDB**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **habiba.enh@gmail.com**
 - 👨‍💻 All of my projects are available on my **GitHub profile**
 - ⚡ Fun fact: **I love turning creative ideas into interactive web applications!**
 
